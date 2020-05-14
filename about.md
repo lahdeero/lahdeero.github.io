@@ -3,4 +3,7 @@ layout: page
 title: About
 ---
 
-Computer science student.
+CS student
+
+contact: eero (dot) lahdenpera (at) gmail (dot) com
+
