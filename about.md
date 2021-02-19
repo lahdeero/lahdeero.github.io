@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-CS student
+Developer and CS student
 
-contact: eero (dot) lahdenpera (at) gmail (dot) com
-
+contact: eero (dot) lahdenpera (at) iki (dot) fi
