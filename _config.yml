@@ -22,11 +22,13 @@ defaults:
       layout: "post"
 
 future: true
-plugins:
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
 
+gems: [jekyll-paginate]
+
 # Custom variables
 owner : "lahdeero"
-year : "2020"
+year : "2021"

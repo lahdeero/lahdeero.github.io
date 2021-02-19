@@ -1,3 +1,8 @@
+# OWN INSTRUCTIONS
+#!/bin/sh
+docker build -t lahdeero.github.io .
+docker run -it -p 8000:8000 lahdeero.github.io
+
 # The Hacker-Blog theme
 
 *Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
