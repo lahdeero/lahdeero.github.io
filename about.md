@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Developer and CS student
+Human and developer
 
 contact: eero (dot) lahdenpera (at) iki (dot) fi
