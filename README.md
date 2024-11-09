@@ -15,14 +15,14 @@ Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker
 2. SEO tags
 3. Archive Page
 4. RSS
-5. Sitemap 
+5. Sitemap
 
 ## Usage
 
 1. Fork and Clone this repository
 2. Customize your blog
 3. Add a new post in `_posts/` directory with proper name format (as shown in placeholder posts)
-4. Commit and push to master 
+4. Commit and push to master
 
 ## Local Build
 
